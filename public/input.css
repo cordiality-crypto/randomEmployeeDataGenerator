@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply bg-teal-950 hover:bg-teal-800 text-4xl p-8 m-8 border-4 border-cyan-500 rounded-xl;
+}
